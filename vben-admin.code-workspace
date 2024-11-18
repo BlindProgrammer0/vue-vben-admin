@@ -5,6 +5,10 @@
       "path": "apps/backend-mock",
     },
     {
+      "name": "nest-admin",
+      "path": "apps/nest-admin",
+    },
+    {
       "name": "@vben/web-antd",
       "path": "apps/web-antd",
     },
